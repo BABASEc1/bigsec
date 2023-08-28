@@ -2,10 +2,9 @@
 
 ![Made in INFOSEC](https://img.shields.io/badge/MADE%20IN%20-INFOSEC-green?style=for-the-badge&logo=appveyor)
 
-![B A B A ](https://img.shields.io/badge/BA%20-BA-green?style=for-the-badge&logo=appveyor)
+![B A B A ](https://img.shields.io/badge/BABA%20-BABA-green?style=for-the-badge&logo=appveyor)
 
-![GitHub followers](https://img.shields.io/https://github.com/BABASEc1?style=for-the-badge)
-
+![GitHub followers](https://img.shields.io/github/followers/BABASEc1?style=for-the-badge)
 # Installation 
 
 ```  
