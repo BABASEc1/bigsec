@@ -17,7 +17,7 @@ pkg install python -y
 pip install requests
 pip install bs4
 pip install future
-rm -rf Crack-Pro
+rm -rf bigsec
 git clone https://github.com/BABASEc1/bigsec.git
 cd bigsec
 git pull 
