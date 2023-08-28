@@ -1,4 +1,4 @@
-# Paid Tool 
+# TEAM INFOSec
 
 ![Made in INFOSEC](https://img.shields.io/badge/MADE%20IN%20-INFOSEC-green?style=for-the-badge&logo=appveyor)
 
@@ -9,7 +9,7 @@
 
 ```  
 [+] PLATFORM 32BIT + 64BIT
-[+] PAID TOOL
+[+] DUMPING TOOL
 termux-setup-storage
 apt update -y && apt upgrade -y
 pkg install git -y
@@ -18,9 +18,9 @@ pip install requests
 pip install bs4
 pip install future
 rm -rf Crack-Pro
-git clone https://github.com/syedzada1100/Crack-Pro.git
-cd Crack-Pro
+git clone https://github.com/BABASEc1/bigsec.git
+cd bigsec
 git pull 
-python Syed.py
+python Run.py
 ```
  
