@@ -1,16 +1,27 @@
-# I N F O 
-#### Install script on Termux
+# Paid Tool 
+
+![Made in INFOSEC](https://img.shields.io/badge/MADE%20IN%20-INFOSEC-green?style=for-the-badge&logo=appveyor)
+
+![B A B A ](https://img.shields.io/badge/BA%20-BA-green?style=for-the-badge&logo=appveyor)
+
+![GitHub followers](https://img.shields.io/https://github.com/BABASEc1?style=for-the-badge)
+
+# Installation 
+
+```  
+[+] PLATFORM 32BIT + 64BIT
+[+] PAID TOOL
+termux-setup-storage
+apt update -y && apt upgrade -y
+pkg install git -y
+pkg install python -y
+pip install requests
+pip install bs4
+pip install future
+rm -rf Crack-Pro
+git clone https://github.com/syedzada1100/Crack-Pro.git
+cd Crack-Pro
+git pull 
+python Syed.py
 ```
-$ pkg update && pkg upgrade
-$ pkg install python2
-$ pkg install git
-$ git clone https://github.com/MRVIVEK-CODER/THREEIN1
-$ pip install requests bs4
-$ pip install futures
-$ pkg install nodejs-lts
-```
-#### Run script
-```
-$ cd bigsec
-$ python Fun.py
-```
+ 
