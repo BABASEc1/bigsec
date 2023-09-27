@@ -1,10 +1,8 @@
 
-1          0.00%  Yammer/6.5.17.1212 (iPhone7,2; iPhone OS 9.2.1; en_GB; en-GB; Scale/2.00)
-1          0.00%  ZnajdzFoto/Image 2.0
-1          0.00%  [FBAN/FB4A;FBAV/59.0.0.15.313;FBBV/20097172;FBDM/{density=1.5,width=480,height=800};FBLC/en_US;FBCR/Telstra Mobile;FBMF/ZTE;FBBD/ZTE;FBPN/com.facebook.katana;FBDV/ZTE T815;FBSV/4.4.2;nullFBCA/armeabi-v7a:armeabi;]
-1          0.00%  [FBAN/FB4A;FBAV/59.0.0.15.313;FBBV/20097172;FBDM/{density=1.5,width=480,height=800};FBLC/es_LA;FBCR/Claro;FBMF/LGE;FBBD/lge;FBPN/com.facebook.katana;FBDV/LG-P714;FBSV/4.1.2;nullFBCA/armeabi-v7a:armeabi;]
-1          0.00%  [FBAN/FB4A;FBAV/59.0.0.15.313;FBBV/20097172;FBDM/{density=1.5,width=480,height=800};FBLC/it_IT;FBCR/I WIND;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/GT-S7390;FBSV/4.1.2;nullFBCA/armeabi-v7a:armeabi;]
-1          0.00%  [FBAN/FB4A;FBAV/59.0.0.15.313;FBBV/20097172;FBDM/{density=1.5,width=540,height=960};FBLC/en_US;FBCR/MetroPCS;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-G386T1;FBSV/4.4.2;nullFBCA/armeabi-v7a:armeabi;]
+1           [FBAN/FB4A;FBAV/59.0.0.15.313;FBBV/20097172;FBDM/{density=1.5,width=480,height=800};FBLC/en_US;FBCR/Telstra Mobile;FBMF/ZTE;FBBD/ZTE;FBPN/com.facebook.katana;FBDV/ZTE T815;FBSV/4.4.2;nullFBCA/armeabi-v7a:armeabi;]
+1          [FBAN/FB4A;FBAV/59.0.0.15.313;FBBV/20097172;FBDM/{density=1.5,width=480,height=800};FBLC/es_LA;FBCR/Claro;FBMF/LGE;FBBD/lge;FBPN/com.facebook.katana;FBDV/LG-P714;FBSV/4.1.2;nullFBCA/armeabi-v7a:armeabi;]
+1           [FBAN/FB4A;FBAV/59.0.0.15.313;FBBV/20097172;FBDM/{density=1.5,width=480,height=800};FBLC/it_IT;FBCR/I WIND;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/GT-S7390;FBSV/4.1.2;nullFBCA/armeabi-v7a:armeabi;]
+1          [FBAN/FB4A;FBAV/59.0.0.15.313;FBBV/20097172;FBDM/{density=1.5,width=540,height=960};FBLC/en_US;FBCR/MetroPCS;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-G386T1;FBSV/4.4.2;nullFBCA/armeabi-v7a:armeabi;]
 1          0.00%  [FBAN/FB4A;FBAV/59.0.0.15.313;FBBV/20097172;FBDM/{density=1.5,width=540,height=960};FBLC/sv_SE;FBCR/;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/GT-I9195;FBSV/4.4.2;nullFBCA/armeabi-v7a:armeabi;]
 1          0.00%  [FBAN/FB4A;FBAV/59.0.0.15.313;FBBV/20097172;FBDM/{density=1.5,width=540,height=960};FBLC/sv_SE;FBCR/Telia;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/GT-I9195;FBSV/4.4.2;nullFBCA/armeabi-v7a:armeabi;]
 1          0.00%  [FBAN/FB4A;FBAV/59.0.0.15.313;FBBV/20097173;FBDM/{density=2.0,width=720,height=1184};FBLC/sv_SE;FBCR/Telenor SE;FBMF/BullittGroupLimited;FBBD/Cat;FBPN/com.facebook.katana;FBDV/S50;FBSV/4.4.2;nullFBCA/armeabi-v7a:armeabi;]
